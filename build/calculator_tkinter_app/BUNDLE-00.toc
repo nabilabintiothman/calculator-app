@@ -1,0 +1,3 @@
+([('calculator_tkinter_app',
+   '/Users/nabilaothman/Python/calculator_app/dist/calculator_tkinter_app',
+   'EXECUTABLE')],)
